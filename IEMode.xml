@@ -16,4 +16,16 @@
     <compat-mode>IE8</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="dm-dvr-1">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lb-dvr-1">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lb-dvr-2">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
