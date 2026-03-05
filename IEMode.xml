@@ -8,12 +8,5 @@
     <compat-mode>IE7</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="10.12.1.100">
-    <compat-mode>IE5</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="10.12.3.110">
-    <compat-mode>IE8</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
 </site-list>
+
